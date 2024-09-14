@@ -35,7 +35,7 @@
         <p>We are a team of creative individuals passionate about modern web design and development. Our mission is to provide stunning web experiences with smooth navigation and clean code.</p>
     </section>
 
-    <section id="services" class="services-section">
+        <section id="services" class="services-section">
         <h2>Our Services</h2>
         <div class="service-cards">
             <div class="card">
@@ -51,7 +51,12 @@
                 <p>Improving your website's visibility and ranking on search engines.</p>
             </div>
         </div>
+        <div class="seek-more-wrapper">
+            <button class="seek-more-button">Seek More</button>
+        </div>
     </section>
+
+
 
     <section id="contact" class="contact-section">
         <h2>Contact Us</h2>
